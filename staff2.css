@@ -1,0 +1,13 @@
+td{
+    color: blue;
+}
+table{
+    border: 1px solid green;
+    width: 1000px;
+    padding: 50px;
+    text-align: left;
+    border-collapse: collapse;
+}
+td,tr{
+    border: 1px solid green;
+}
